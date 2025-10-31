@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+# faiss-gpu
+llama-cpp-python
+numpy
+requests
+sentence_transformers
+faker
+streamlit

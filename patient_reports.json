@@ -1,0 +1,427 @@
+[
+  {
+    "patient_name": "James Johnson",
+    "discharge_date": "2025-01-08",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Dan Moore",
+    "discharge_date": "2025-03-09",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Kathleen Thomas",
+    "discharge_date": "2025-06-21",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "James Fitzgerald",
+    "discharge_date": "2025-01-10",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "James Perry",
+    "discharge_date": "2025-01-16",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Christopher Carey",
+    "discharge_date": "2025-06-11",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Reginald Fry",
+    "discharge_date": "2025-03-06",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Hailey Kennedy",
+    "discharge_date": "2025-06-10",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Lisa Martinez",
+    "discharge_date": "2025-02-05",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Daniel Mccormick",
+    "discharge_date": "2025-06-16",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Jasmine Lane",
+    "discharge_date": "2025-02-04",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Joshua Sutton",
+    "discharge_date": "2025-01-12",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Anna Molina",
+    "discharge_date": "2025-04-15",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Shannon Martin",
+    "discharge_date": "2025-06-12",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Brent Anderson",
+    "discharge_date": "2025-04-21",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Morgan Foley",
+    "discharge_date": "2025-06-22",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Jose Williams",
+    "discharge_date": "2025-05-11",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Megan Fleming MD",
+    "discharge_date": "2025-06-20",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Jerry Hammond",
+    "discharge_date": "2025-05-30",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Swelling, shortness of breath",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Kelsey Hernandez",
+    "discharge_date": "2025-05-07",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Yolanda Yates",
+    "discharge_date": "2025-04-07",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "David Gonzalez",
+    "discharge_date": "2025-02-20",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "Low sodium (2g/day), fluid restriction (1.5L/day)"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Brittany Lee",
+    "discharge_date": "2025-03-27",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Losartan 25mg twice daily",
+      "Metolazone 5mg thrice daily"
+    ],
+    "dietary_restrictions": [
+      "Potassium restricted diet, no processed foods"
+    ],
+    "follow_up": [
+      "Blood test before next visit"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Phyllis Sherman",
+    "discharge_date": "2025-01-19",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Amlodipine 5mg twice daily",
+      "Hydrochlorothiazide 25mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Nephrology clinic in 2 weeks"
+    ],
+    "warning_signs": "Dizziness, high blood pressure",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  },
+  {
+    "patient_name": "Cameron Butler",
+    "discharge_date": "2025-02-14",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": [
+      "High protein, fluid unrestricted"
+    ],
+    "follow_up": [
+      "Telehealth consultation in 10 days"
+    ],
+    "warning_signs": "Decreased urine output, fatigue",
+    "discharge_instructions": "Monitor blood pressure daily and record body weight every morning."
+  }
+]
