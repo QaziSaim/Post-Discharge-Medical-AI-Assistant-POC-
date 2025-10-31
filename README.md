@@ -1,4 +1,3 @@
-```markdown
 # 🏥 Post Discharge Medical AI Assistant (POC)
 
 ### Built by: Sahim Kazi
@@ -167,10 +166,3 @@ You can visualize the system behavior in the included diagram:
 
 Developed by **Sahim Kazi**
 For **DataSmith AI – GenAI Intern Assignment (Post Discharge Medical AI Assistant POC)**
-
-```
-
----
-
-Would you like me to now generate this as a **formatted `README.md` file** (downloadable version with Markdown styling preserved)?
-```
